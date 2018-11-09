@@ -57,7 +57,7 @@
         android:layout_marginStart="73dp"
         android:layout_marginLeft="73dp"
         android:layout_marginBottom="52dp"
-        android:text="@string/btn_Start"
+        android:text="@string/new_btn"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"

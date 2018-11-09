@@ -13,4 +13,5 @@
     <string name="Kake_Coin">10</string>
     <string name="Kake_Coin2">10</string>
     <string name="My_Coin2">1000</string>
+    <string name="new_btn">START</string>
 </resources>
