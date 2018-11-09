@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">MyMiniSlot</string>
     <string name="btn_reset">手持ちRESET</string>
-    <string name="btn_Start">スタート</string>
+    <string name="btn_Start">スタート!!</string>
     <string name="btn_Up">掛け金UP</string>
     <string name="btn_Down">掛け金DOWN</string>
     <string name="my_Coin">手持ちコイン:</string>
